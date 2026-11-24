@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b)
-![Gemini]![Gemini](https://shields.io)
+![Gemini](https://shields.io)
 
 </div>
 
